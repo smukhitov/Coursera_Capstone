@@ -1,2 +1,1 @@
-# github-example
-This repositroy contains Coursera Capstone Project files
+This repo contains Coursera Capstone Project files
